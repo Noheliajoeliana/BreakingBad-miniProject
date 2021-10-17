@@ -1,2 +1,2 @@
-# BreakingBad-s-miniProject
+# BreakingBad-miniProject
 Mini app de introducción a ReactJS
